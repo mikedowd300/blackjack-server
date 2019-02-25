@@ -17,4 +17,5 @@ module.exports = {
   timeAfterDealingACard:500,
   timeToAcceptInsurance: 3000,
   timeBetweenPayingOutHands:1000,
+  deck-back-class: 'generic-back-3',
 };
